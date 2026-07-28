@@ -3,6 +3,7 @@
 # Norbert Hadiprodjo
 
 **Industrial Engineering @ University of Toronto**
+<sub>Business & AI Minors</sub>
 AI &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Optimization &nbsp;·&nbsp; Quantitative Finance
 
 <br>
